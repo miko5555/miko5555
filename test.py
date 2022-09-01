@@ -1,0 +1,2 @@
+def gag():
+    print('barev')
