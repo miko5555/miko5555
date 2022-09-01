@@ -1,3 +1,13 @@
 def gag():
     print('barev')
 print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
+print ('karmir arev')
